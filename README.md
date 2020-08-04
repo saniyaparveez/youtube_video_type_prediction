@@ -2,7 +2,7 @@
 
 <p>Youtube provides several video types. It is effortless to predict Youtube video types based on the training data of youtube.</p>
 
-<h2>How to build?</h2>
+<h2>How to Build?</h2>
 
 <p> docker build -t videocategory:latest .</p>
 
@@ -25,7 +25,7 @@ http://hostip:5000/api/v1/predict
 <p>
 
 <br/>
-Body request: </br>
+Body Request: </br>
 
 {
     "data":["Barking dog plays with toy",
@@ -112,7 +112,7 @@ Body request: </br>
 
 </p>
 
-<h2>Detailed description</h2>
+<h2>Detailed Description</h2>
 
 <p>
  <a href="https://medium.com/towards-artificial-intelligence/prediction-of-youtube-video-type-using-naive-bayes-algorithm-9c2aea072649">Prediction of Youtube Video Type using the Naive Bayes Algorithm</a>
