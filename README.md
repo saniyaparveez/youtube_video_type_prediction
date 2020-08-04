@@ -15,7 +15,7 @@ docker run -d -p 5000:5000 saniyaparveez/predictheartdisease
 
 <p>
 Post:</br>
-http://192.168.174.128:5000/api/v1/predict
+http://<hostip>:5000/api/v1/predict
 
 </p>
 <p>
