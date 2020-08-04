@@ -2,10 +2,14 @@
 
 <p>Youtube provides several video types. It is effortless to predict Youtube video types based on the training data of youtube.</p>
 
+<h2>How to build?</h2>
+
+<p> docker build -t predictheartdisease:latest .</p>
+
 <h2>How to Run?</h2>
 
 <p>
-docker run -d -p 5000:5000 saniyaparveez/predictheartdisease
+docker run -d -p 5000:5000 predictheartdisease
 
 
 
