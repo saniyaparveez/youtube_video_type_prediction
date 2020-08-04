@@ -111,3 +111,9 @@ Body request: </br>
 ]
 
 </p>
+
+<h2>Detailed description</h2>
+
+<p>
+ <a href="https://medium.com/towards-artificial-intelligence/prediction-of-youtube-video-type-using-naive-bayes-algorithm-9c2aea072649">Prediction of Youtube Video Type using the Naive Bayes Algorithm</a>
+</p>
