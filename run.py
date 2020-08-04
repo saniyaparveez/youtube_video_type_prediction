@@ -10,9 +10,6 @@ app = Flask(__name__)
 
 @app.route('/api/v1/predict', methods=['POST'])
 def predict_youtube_video():
-	if not request.json:
-		abort(400)
-
 	data = request.json
 	data = data['data']
 	model = VideoModel()
