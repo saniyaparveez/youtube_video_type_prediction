@@ -1,6 +1,6 @@
 <h1>Prediction of Youtube Video Type using the Naive Bayes Algorithm</h1>
 
-<p>Youtube provides several video types. It is effortless to predict Youtube video types based on the training data of youtube.</p>
+<p>Youtube provides several video types. It is effortless to predict Youtube video types based on the training data of youtube. It predicts the category and the type of video based on the input title of videos./p>
 
 <h2>How to Build?</h2>
 
